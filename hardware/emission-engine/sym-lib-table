@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "emission_engine")(type "KiCad")(uri "${KIPRJMOD}/emission_engine.kicad_sym")(options "")(descr ""))
+)
