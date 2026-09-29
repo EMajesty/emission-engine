@@ -1,0 +1,13 @@
+# KiCad local state and temporary files
+*.kicad_prl
+*.lck
+*~
+
+# KiCad auto-saves and backups
+_autosave-*
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Legacy KiCad cache
+fp-info-cache
