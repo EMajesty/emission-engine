@@ -3,10 +3,220 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "d9d9583b-7f0b-4bd2-877d-46310b136186")
-	(paper "A4")
+	(paper "A4" portrait)
 	(lib_symbols)
 	(sheet
-		(at 41.91 35.56)
+		(at 101.6 127)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1d1ac841-9c0f-4290-9534-a9a3cae604a8")
+		(property "Sheetname" "dac_send"
+			(at 101.6 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac_send.kicad_sch"
+			(at 101.6 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emission-engine"
+				(path "/d9d9583b-7f0b-4bd2-877d-46310b136186"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 125.73)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e07ceab-0bbc-429d-872d-4a71f57f9895")
+		(property "Sheetname" "dac_main"
+			(at 59.69 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac_main.kicad_sch"
+			(at 59.69 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emission-engine"
+				(path "/d9d9583b-7f0b-4bd2-877d-46310b136186"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 74.93)
+		(size 22.86 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e2f0be6-6541-45a9-a448-33e5c8bb289d")
+		(property "Sheetname" "pi"
+			(at 93.98 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pi.kicad_sch"
+			(at 93.98 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emission-engine"
+				(path "/d9d9583b-7f0b-4bd2-877d-46310b136186"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 125.73)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "684cab4c-7cf4-4c27-b6d5-3ef271b38fe0")
+		(property "Sheetname" "dac_headphones"
+			(at 143.51 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac_headphones.kicad_sch"
+			(at 143.51 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emission-engine"
+				(path "/d9d9583b-7f0b-4bd2-877d-46310b136186"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 104.14)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "acea5566-5fcc-4bb9-9df4-90eed9471bf6")
+		(property "Sheetname" "power"
+			(at 170.18 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 170.18 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "emission-engine"
+				(path "/d9d9583b-7f0b-4bd2-877d-46310b136186"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 39.37)
 		(size 22.86 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +232,7 @@
 		)
 		(uuid "cf81a67d-9a67-41be-a7d2-3353ec11cd98")
 		(property "Sheetname" "adc"
-			(at 41.91 34.8484 0)
+			(at 93.98 38.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +241,7 @@
 			)
 		)
 		(property "Sheetfile" "adc.kicad_sch"
-			(at 41.91 51.3846 0)
+			(at 93.98 55.1946 0)
 			(effects
 				(font
 					(size 1.27 1.27)

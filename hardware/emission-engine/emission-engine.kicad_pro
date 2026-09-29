@@ -416,6 +416,26 @@
     [
       "cf81a67d-9a67-41be-a7d2-3353ec11cd98",
       "adc"
+    ],
+    [
+      "4e2f0be6-6541-45a9-a448-33e5c8bb289d",
+      "pi"
+    ],
+    [
+      "2e07ceab-0bbc-429d-872d-4a71f57f9895",
+      "dac_main"
+    ],
+    [
+      "1d1ac841-9c0f-4290-9534-a9a3cae604a8",
+      "dac_send"
+    ],
+    [
+      "684cab4c-7cf4-4c27-b6d5-3ef271b38fe0",
+      "dac_headphones"
+    ],
+    [
+      "acea5566-5fcc-4bb9-9df4-90eed9471bf6",
+      "power"
     ]
   ],
   "text_variables": {}

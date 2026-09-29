@@ -520,7 +520,7 @@
 	)
 	(symbol
 		(lib_id "emission_engine:TLV320ADC5140")
-		(at 49.53 63.5 0)
+		(at 69.85 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -529,7 +529,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb80ba69-d231-405e-bed1-b4e9e327a12d")
 		(property "Reference" "U1"
-			(at 52.9433 33.02 0)
+			(at 73.2633 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -538,7 +538,7 @@
 			)
 		)
 		(property "Value" "TLV320ADC5140"
-			(at 52.9433 35.56 0)
+			(at 73.2633 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -547,7 +547,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias"
-			(at 49.53 81.788 0)
+			(at 69.85 91.948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -556,7 +556,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 63.5 0)
+			(at 69.85 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,7 +565,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 63.5 0)
+			(at 69.85 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
